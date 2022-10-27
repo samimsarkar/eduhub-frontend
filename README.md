@@ -1,4 +1,5 @@
 <h1>About the Project</h1>
+<a href="https://simple-firebase-authenti-85c00.web.app/">Please Visit the Website</a>
 <p>
     EDU HUB is a free learning site that offers courses to learn popular Programming Languages. All courses
     contain modules that you can read when it is convenient for you. Knowledge-dot offers all the course for completely
