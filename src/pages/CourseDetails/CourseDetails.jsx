@@ -7,13 +7,13 @@ import Pdf from "react-to-pdf";
 
 const ref = React.createRef();
 
-// const CourseDetails = () => {
-//     const courseDetails = useLoaderData();
-//     const navigate = useNavigate();
-//     const { course, modules } = JSON.parse(courseDetails);
-//     const options = {
-//         orientation: 'portrait'
-//     };
+const CourseDetails = () => {
+    const courseDetails = useLoaderData();
+    const navigate = useNavigate();
+    const { course, modules } = JSON.parse(courseDetails);
+    const options = {
+        orientation: 'portrait'
+    };
 
     return (
         <div className='pt-14 bg-slate-400' ref={ref}>
